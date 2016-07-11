@@ -1,0 +1,16 @@
+Name                                             Stmts   Miss  Cover   Missing
+------------------------------------------------------------------------------
+minerals/__init__.py                                 0      0   100%
+minerals/admin.py                                    3      3     0%   1-6
+minerals/apps.py                                     3      3     0%   1-5
+minerals/migrations/0001_initial.py                  6      0   100%
+minerals/migrations/0002_auto_20160608_1153.py       5      0   100%
+minerals/migrations/__init__.py                      0      0   100%
+minerals/models.py                                  24     24     0%   1-30
+minerals/templatetags/__init__.py                    0      0   100%
+minerals/templatetags/mineral_extras.py             12      8    33%   1-10, 19-23
+minerals/tests.py                                   20      0   100%
+minerals/urls.py                                     5      5     0%   1-10
+minerals/views.py                                   18      8    56%   1-10, 16, 42
+------------------------------------------------------------------------------
+TOTAL                                               96     51    47%
